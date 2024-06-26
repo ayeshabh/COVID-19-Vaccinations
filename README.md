@@ -1,5 +1,7 @@
 # COVID-19-Vaccinations
 
+[Dashboard](https://public.tableau.com/app/profile/ayesha.bhangu/viz/Covid-19Vaccinations_17188629338160/GlobalCOVIDVaccineTracker?publish=yes)
+
 **Situation**<br>
 The COVID-19 pandemic was one that affected millions of people worldwide, though it might not be considered an active threat from the World Health Organization (WHO) in the current 2024 year many lives were affected. I wanted to personally see for myself how the vaccination rollout has been since the past few years after COVID. I want to focus on quantifying the speed and scale of the vaccination program.
 
